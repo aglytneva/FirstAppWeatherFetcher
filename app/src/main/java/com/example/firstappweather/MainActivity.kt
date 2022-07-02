@@ -10,6 +10,6 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val textViewHello = findViewById<TextView>(R.id.tvHello)
-        textViewHello.text = "Привет, мое первое приложение!"
+        textViewHello.text = "Привет, мое пеое приложение!"
     }
 }
